@@ -1,0 +1,8 @@
+{
+  "name": "RugiaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "39a6ec60"
+}
